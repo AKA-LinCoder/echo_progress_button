@@ -1,7 +1,7 @@
 name: echo_progress_button
 description: fork from https://github.com/jiangyang5157/flutter_progress_button
 version: 0.0.1
-homepage:
+homepage: https://github.com/AKA-LinCoder/echo_progress_button
 
 environment:
   sdk: '>=2.19.5 <3.0.0'
